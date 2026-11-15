@@ -66,7 +66,7 @@ The following SaaS and enterprise platforms provide hosted test execution enviro
 
 These community-driven, open-source projects give engineering teams full control of their test suites, enabling local-first execution, git-managed test definitions, and zero per-seat licensing penalties in CI/CD pipelines.
 
-| Project | ⭐ GitHub Stars | 📝 Description | 🎯 Focus / Best For |
+| Project | ⭐ GitHub_Stars | 📝 Description | 🎯 Focus / Best For |
 |:---|:---|:---|:---|
 | **[Playwright](https://github.com/microsoft/playwright)** | [![Stars](https://img.shields.io/github/stars/microsoft/playwright?style=social&color=white)](https://github.com/microsoft/playwright/stargazers) | Microsoft's high-speed end-to-end framework featuring unified API request contexts, network interception, auto-waiting, and multi-browser automation. | Modern web & full-stack API testing |
 | **[Hoppscotch](https://github.com/hoppscotch/hoppscotch)** | [![Stars](https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=social&color=white)](https://github.com/hoppscotch/hoppscotch/stargazers) | Lightweight, self-hostable open-source API development and testing ecosystem supporting REST, GraphQL, and WebSocket streams. | Self-hosted team API workbench |
